@@ -41,9 +41,9 @@ POWAR at Fabschools
 (connect a water pump and a moisture Sensor and Water Sensor to your POWAR box)
 ![thristy plant connections]()
 
-2. **lesson 2** Light and LDR
+2. **lesson 2** Light, LDR and DHT (temp and humid)
 (add ......)
-![LDR connection]()
+![LDR connection](http://pablozuloaga.com/assets/images/powar-ldr-dht-led-1772x649.png)
 
 
 3. **lesson 3** Global weather vs global communication
