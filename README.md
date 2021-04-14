@@ -50,9 +50,14 @@ POWAR at Fabschools
   - [Automatic Light](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/EXPERIMENTS_1-2/EXP02.3%20POWAR-LDR%2BDIM%2BLCD)
 
 
+
 - Arduino Code that connects prev version through MQTT to a Node-RED server through a wifi connection.
   - [LDR+DHT+LED PUBLISH MQTT + WEBSERVER](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/NETWORKING/WIFI_MQTT_LDR_DHT-COMPLETE)
 
+
+
+- Arduino Final Code with al sensors sending data to MQTT and subscription to weather API data;
+  - [FULL CODE](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/FINAL%20CODE/POWAR_FINAL_CODE_ESP8266)
 
 
 ## Schematics
