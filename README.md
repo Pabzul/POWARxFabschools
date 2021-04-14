@@ -27,10 +27,12 @@ POWAR at Fabschools
 ## Code
 
 - Arduino Code for each sensor;
-- Arduino Code that adds all sensors toghether and prints their values on Serial Port;
+  - ![LED_Blink](ArduinoCode/NEW CODES/SENSORS/01 POWAR-LED_Blink/POWAR-LED_Blink/POWAR-LED_Blink.ino)
+  - ![LDRwMAP](ArduinoCode/NEW CODES/SENSORS/02 POWAR-LDRwMAP)
+- Arduino Code that adds all sensors together and prints their values on Serial Port;
 
 - Arduino Code for Lesson 1;
-  
+
 - Arduino Code for Lesson 2;
 - Arduino Code for Lesson 3;
 
@@ -38,7 +40,7 @@ POWAR at Fabschools
 
 ## Schematics
 
-1. **lesson 1** Automatic Watering plant:
+1. **lesson 1** Thirsty Plant:
 
 Make a water pump to automatically water your plants when they are thirsty.
 
@@ -47,7 +49,7 @@ Connect a Capacitive Moisture Sensor and a water pump to your ESP and automatize
 ![thristy plant connections](Schematics/EXPERIMENTS/EXP1-POWAR-MOIST-PUMP.png)
 
 
-2. **lesson 2** Automatic LED lights:
+2. **lesson 2** Automatic lights:
 
 Make your LED lights react according to the light sensor.
 
@@ -57,8 +59,9 @@ Create a project in which lights will be activated when it is too dark, and it w
 
 
 
-3. **lesson 3** Global weather vs global communication
-(add connection and get weather information from elsewhere in your POWAR box)
+3. **lesson 3** Global weather vs global communication:
+
+Connect to the internet and get weather information from elsewhere in your POWAR box.
 
 ![Go Full POWAR](Schematics/POWAR-FULL.png)
 
