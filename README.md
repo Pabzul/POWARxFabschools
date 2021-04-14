@@ -30,6 +30,7 @@ POWAR at Fabschools
 - Arduino Code that adds all sensors toghether and prints their values on Serial Port;
 
 - Arduino Code for Lesson 1;
+  
 - Arduino Code for Lesson 2;
 - Arduino Code for Lesson 3;
 
@@ -37,22 +38,31 @@ POWAR at Fabschools
 
 ## Schematics
 
-1. **lesson 1** thrirsty plant
-(connect a water pump and a moisture Sensor and Water Sensor to your POWAR box)
-![thristy plant connections]()
+1. **lesson 1** Automatic Watering plant:
 
-2. **lesson 2** Light, LDR and DHT (temp and humid)\
-(add ......)\\
-![LDR connection](http://pablozuloaga.com/assets/images/powar-ldr-dht-led-1772x649.png)
+Make a water pump to automatically water your plants when they are thirsty.
+
+Connect a Capacitive Moisture Sensor and a water pump to your ESP and automatize the watering process.
+
+![thristy plant connections](Schematics/EXPERIMENTS/EXP1-POWAR-MOIST-PUMP.png)
+
+
+2. **lesson 2** Automatic LED lights:
+
+Make your LED lights react according to the light sensor.
+
+Create a project in which lights will be activated when it is too dark, and it will also show in the LCD screen te percentage of luminosity in the room.
+
+![LDR connection](Schematics/EXPERIMENTS/EXP2-POWAR-LDR-LIGHT-LCD.png)
+
 
 
 3. **lesson 3** Global weather vs global communication
 (add connection and get weather information from elsewhere in your POWAR box)
-![Go Full POWAR]()
+
+![Go Full POWAR](Schematics/POWAR-FULL.png)
 
 
 ## Node-RED POWAR server guide
 
 ... write the instructions to configure your own node-red sensor
-
-
