@@ -27,8 +27,8 @@ POWAR at Fabschools
 ## Code
 
 - Arduino Code for each sensor;
-  - ![LED_Blink](ArduinoCode/NEW CODES/SENSORS/01 POWAR-LED_Blink/POWAR-LED_Blink/POWAR-LED_Blink.ino)
-  - ![LDRwMAP](ArduinoCode/NEW CODES/SENSORS/02 POWAR-LDRwMAP)
+  - [LED_Blink](ArduinoCode/NEW CODES/SENSORS/01 POWAR-LED_Blink/POWAR-LED_Blink/POWAR-LED_Blink.ino)
+  - [LDRwMAP](ArduinoCode/NEW CODES/SENSORS/02 POWAR-LDRwMAP)
 - Arduino Code that adds all sensors together and prints their values on Serial Port;
 
 - Arduino Code for Lesson 1;
