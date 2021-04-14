@@ -18,7 +18,7 @@ POWAR at Fabschools
 - [1 Light Sensor]()
 - [1 2x relay module]()
 - [1 water sensor]()
-- [1 Moisture Sensro](https://www.amazon.es/-/pt/gp/product/B07V6M5C4H/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+- [1 Moisture Sensor](https://www.amazon.es/-/pt/gp/product/B07V6M5C4H/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 - [1 grow Led Strip]()
 - [1 Powar Source]() - *unavailable*
 
@@ -27,8 +27,11 @@ POWAR at Fabschools
 ## Code
 
 - Arduino Code for each sensor;
-  - [LED_Blink](ArduinoCode/NEW CODES/SENSORS/01 POWAR-LED_Blink/POWAR-LED_Blink/POWAR-LED_Blink.ino)
-  - [LDRwMAP](ArduinoCode/NEW CODES/SENSORS/02 POWAR-LDRwMAP)
+  - [LED Blink](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/SENSORS/01%20POWAR-LED_Blink/POWAR-LED_Blink)
+  - [LDR - Light Sensor](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/SENSORS/02%20POWAR-LDRwMAP)
+  - [DHT - Humidy and Temperature](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/SENSORS/03%20POWAR-DHT/POWAR-DHT)
+  - [Plant Moisture Sensor](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/SENSORS/04%20POWAR-MOISTURE)
+  - [Tank water Level](https://github.com/Fablab-Benfica/POWARxFabschools/tree/main/ArduinoCode/NEW%20CODES/SENSORS/05%20POWAR-TANKLEVELwMAP/POWAR-TANKLEVELwMAP)
 - Arduino Code that adds all sensors together and prints their values on Serial Port;
 
 - Arduino Code for Lesson 1;
